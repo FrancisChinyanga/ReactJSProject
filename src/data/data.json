@@ -1,0 +1,51 @@
+ [
+      {
+          "id":1,
+          "name":"Francis",
+          "detail":"Java Developer",
+          "image":"../image/tech.jpg"
+      },
+      {
+          "id":2,
+          "name":"Peterson",
+          "detail":"C++ Developer",
+          "image":"../image/tech.jpg"
+      },
+      {
+          "id":3,
+          "name":"Martin",
+          "detail":"ReactJs Developer"
+      },
+      {
+          "id":4,
+          "name":"Getrude",
+          "detail":"Java Developer",
+          "image":"../image/tech.jpg"
+      },
+      {
+          "id":5,
+          "name":"Jason",
+          "detail":"C++ Developer"
+      },
+      {
+          "id":6,
+          "name":"Rob",
+          "detail":"ReactJs Developer"
+      },
+
+       {
+          "id":7,
+          "name":"Isabel",
+          "detail":"Java Developer"
+      },
+      {
+          "id":8,
+          "name":"Morris",
+          "detail":"C++ Developer"
+      },
+      {
+          "id":9,
+          "name":"Preska",
+          "detail":"ReactJs Developer"
+      }
+  ]
